@@ -1240,14 +1240,6 @@ steamcmd.exe +login myLoginName myPassword +workshop_build_item workshop_green_h
 1323  小骨  节日卡包  极稀有 超能
 ```
 
-
-<a id="contact"></a>
-## 📮 更多API接口以及扩展：联系方式
-- QQ：780231813  
-- 官方QQ群（联系群主）：958628027  
-- Email：yangyiming780@foxmail.com  
-- Steam 社区留言 / Git issues
-
 ---
 <a id="community-rules"></a>
 ## 🛡️ 社区准则（简要）
