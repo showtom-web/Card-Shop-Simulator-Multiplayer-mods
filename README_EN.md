@@ -1651,17 +1651,6 @@ If the command succeeds, the publishedfileid value in the VDF will be automatica
 1323 Little Bone Holiday Card Pack Extremely Rare Psychic
 ```
 
-
-
-<a id="contact"></a>
-## 📮 More API Interfaces and Extensions: Contact
-- QQ: 780231813
-- Official QQ group (contact group owner): 958628027
-- Email: yangyiming780@foxmail.com
-- Steam Community Comments / Git Issues
-
----
-
 <a id="community-rules"></a>
 ## 🛡️ Community Guidelines
 1. 🚫Content that is illegal, politically sensitive, pornographic, or violent/terrorist is prohibited.
