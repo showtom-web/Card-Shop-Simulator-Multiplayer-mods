@@ -1249,3 +1249,4 @@ steamcmd.exe +login myLoginName myPassword +workshop_build_item workshop_green_h
 4. 🚫 禁止以 Mod 形式引导广告、募捐或付费。
    
 若在 Steam 创意工坊发布且违反以上条目，可能被直接删除并封禁相关创作者权限。
+如果您有好的想法也可以加群：941687280联系我们
